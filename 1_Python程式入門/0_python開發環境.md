@@ -9,6 +9,8 @@ python有許多開發環境與IDE(Pycharm, spyder,visual studio code,...)
 其他請參閱Google或書籍
    如Windows python程式開發
 ```
+![123](https://i.imgur.com/WssmDoO.png)
+```
 # [1]linux python程式開發
 ## linux python程式開發(1)互動式模式
 ### python3[持續發展中, 學習python的重心]
